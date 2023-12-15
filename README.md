@@ -12,4 +12,4 @@ license: mit
 
 # streamlit-webrtc-example
 
-Hosted on Streamlit Cloud: [![Open in Streamlit]([https://static.streamlit.io/badges/stream](https://camlit1-felix.streamlit.app/)lit_badge_black_white.svg)](https://webrtc.streamlit.app/) https://webrtc.streamlit.app/
+Hosted on Streamlit Cloud: [![Open in Streamlit](https://camlit1-felix.streamlit.app/)[https://camlit1-felix.streamlit.app/]https://camlit1-felix.streamlit.app/
